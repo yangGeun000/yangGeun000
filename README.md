@@ -35,7 +35,9 @@
 
 <br>
 
+<div align=center>
 
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangGeun000&layout=compact)
 
-![yangGeun000's github stats](https://github-readme-stats.vercel.app/api?username=yangGeun000&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangGeun000&layout=compact)
+</div>
+
