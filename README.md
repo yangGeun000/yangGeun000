@@ -38,3 +38,4 @@
 <div align=center>
 
 ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=yangGeun000&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangGeun000)]
