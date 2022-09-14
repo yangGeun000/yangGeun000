@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=0FF&height=200&section=header&text=Welcom%20to%20my%20Github&fontSize=45&animation=twinkling&fontColor=C9D1D9&fontAlign=30&fontAlignY=85)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=0FF&height=250&section=header&text=Welcom%20to%20my%20Github&fontSize=45&animation=twinkling&fontColor=C9D1D9&fontAlign=30&fontAlignY=85)
 
 <div align=center>
 
@@ -21,11 +21,11 @@
   
   </p>
   <p>
+  
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=white">
   
   </p>
   <p>
@@ -41,4 +41,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=0FF&section=footer&height=200)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=0FF&section=footer&height=250)
