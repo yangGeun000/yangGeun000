@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=0FF&height=250&section=header&text=Welcom%20to%20my%20Github&fontSize=45&animation=twinkling&fontColor=C9D1D9&fontAlign=30&fontAlignY=85)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=0FF&height=150&section=header&text=Welcom%20to%20my%20Github&fontSize=45&animation=twinkling&fontColor=C9D1D9&fontAlign=30&fontAlignY=85)
 
 <div align=center>
 
@@ -14,7 +14,6 @@
   
   <p>
   
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
@@ -38,4 +37,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=0FF&section=footer&height=250)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=0FF&section=footer&height=150)
